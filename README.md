@@ -1,5 +1,6 @@
 # Blog
-swift 및 iOS 관련 블로그
+swift 및 iOS 관련 블로그  
+[👉블로그로 이동👈](https://velog.io/@mo_nireu)
 
 ## 카테고리
 - [Swift](#swift)
