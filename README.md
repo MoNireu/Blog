@@ -13,4 +13,5 @@ swift 및 iOS 관련 블로그
 - [Equatable](https://velog.io/@mo_nireu/Equatable)
 - [@discardableResult](https://velog.io/@mo_nireu/discardableResult)
 - [Weak vs Unowned](https://velog.io/@mo_nireu/Weak-vs-Unowned)
+- [Associated Type](https://velog.io/@mo_nireu/Associated-Type)
 
