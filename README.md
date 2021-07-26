@@ -4,7 +4,7 @@ swift 및 iOS 관련 블로그
 
 ## 카테고리
 - [Swift](#swift)
-
+- [RxSwift](#rxswift)
 
 ---
 
@@ -14,4 +14,7 @@ swift 및 iOS 관련 블로그
 - [@discardableResult](https://velog.io/@mo_nireu/discardableResult)
 - [Weak vs Unowned](https://velog.io/@mo_nireu/Weak-vs-Unowned)
 - [Associated Type](https://velog.io/@mo_nireu/Associated-Type)
+
+## RxSwift
+- [Observable vs Subject](https://velog.io/@mo_nireu/Observable-vs-Subject)
 
