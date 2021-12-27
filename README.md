@@ -21,5 +21,6 @@ swift 및 iOS 관련 블로그
 
 ## 오류수정
 - [View간 NavigationBar Title의 크기가 바뀌지 않던 문제](https://velog.io/@mo_nireu/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0-View%EA%B0%84-NavigationBar-Title%EC%9D%98-%ED%81%AC%EA%B8%B0%EA%B0%80-%EB%B0%94%EB%80%8C%EC%A7%80-%EC%95%8A%EB%8D%98-%EB%AC%B8%EC%A0%9C)
+- [RxSwift Closure Circular Reference](https://velog.io/@mo_nireu/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0-RxSwift-Closure-Circular-Reference)
 
 
