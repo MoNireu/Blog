@@ -6,6 +6,7 @@ swift 및 iOS 관련 블로그
 - [Swift](#swift)
 - [RxSwift](#rxswift)
 - [오류수정](#오류수정)
+- [이슈](#이슈)
 
 ---
 
@@ -22,5 +23,8 @@ swift 및 iOS 관련 블로그
 ## 오류수정
 - [View간 NavigationBar Title의 크기가 바뀌지 않던 문제](https://velog.io/@mo_nireu/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0-View%EA%B0%84-NavigationBar-Title%EC%9D%98-%ED%81%AC%EA%B8%B0%EA%B0%80-%EB%B0%94%EB%80%8C%EC%A7%80-%EC%95%8A%EB%8D%98-%EB%AC%B8%EC%A0%9C)
 - [RxSwift Closure Circular Reference](https://velog.io/@mo_nireu/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0-RxSwift-Closure-Circular-Reference)
+
+## 이슈
+- [SwiftUI @FocusState 사용시 MemoryLeak 발생.](https://velog.io/@mo_nireu/%EC%9D%B4%EC%8A%88-SwiftUI-FocusState-%EC%82%AC%EC%9A%A9%EC%8B%9C-MemoryLeak-%EB%B0%9C%EC%83%9D)
 
 
