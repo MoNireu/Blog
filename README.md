@@ -17,6 +17,7 @@ swift 및 iOS 관련 블로그
 - [Weak vs Unowned](https://velog.io/@mo_nireu/Weak-vs-Unowned)
 - [Associated Type](https://velog.io/@mo_nireu/Associated-Type)
 - [Generic vs Opaque Type](https://velog.io/@mo_nireu/Generic-vs-Opaque-Type)
+- [Protocol vs Opaque Type](https://velog.io/@mo_nireu/Protocol-vs-Opaque-Type)
 
 ## RxSwift
 - [Observable vs Subject](https://velog.io/@mo_nireu/Observable-vs-Subject)
