@@ -18,6 +18,7 @@ swift 및 iOS 관련 블로그
 - [Associated Type](https://velog.io/@mo_nireu/Associated-Type)
 - [Generic vs Opaque Type](https://velog.io/@mo_nireu/Generic-vs-Opaque-Type)
 - [Protocol vs Opaque Type](https://velog.io/@mo_nireu/Protocol-vs-Opaque-Type)
+- [[WWDC2022] What's new in Swift - Concurrency Updates](https://velog.io/@mo_nireu/WWDC2022-Whats-new-in-Swift-Concurrency-Updates)
 
 ## RxSwift
 - [Observable vs Subject](https://velog.io/@mo_nireu/Observable-vs-Subject)
