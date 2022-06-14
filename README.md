@@ -19,6 +19,7 @@ swift 및 iOS 관련 블로그
 - [Generic vs Opaque Type](https://velog.io/@mo_nireu/Generic-vs-Opaque-Type)
 - [Protocol vs Opaque Type](https://velog.io/@mo_nireu/Protocol-vs-Opaque-Type)
 - [[WWDC2022] What's new in Swift - Concurrency Updates](https://velog.io/@mo_nireu/WWDC2022-Whats-new-in-Swift-Concurrency-Updates)
+- [[WWDC2022] Swift Concurrency를 통한 Data Race 방지하기(1) - Task isolation](https://velog.io/@mo_nireu/WWDC2022-Swift-Concurrency%EB%A5%BC-%ED%86%B5%ED%95%9C-Data-Race-%EB%B0%A9%EC%A7%80%ED%95%98%EA%B8%B01-Task-isolation)
 
 ## RxSwift
 - [Observable vs Subject](https://velog.io/@mo_nireu/Observable-vs-Subject)
